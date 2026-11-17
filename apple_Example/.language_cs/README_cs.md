@@ -7,18 +7,18 @@
 > <br>
 > Zkratka slouží pouze jako šablona, pro vytvoření vlastní zkratky.
 
-### Ke stažení
-[![download](https://img.shields.io/badge/download-latest_release-slategray)](https://www.icloud.com/shortcuts/a5480d9615ca4bab9511db40ef6b74a1)
-<br>
-[![download](https://img.shields.io/badge/download-latest_options-yellow)](https://www.icloud.com/shortcuts/2990ec3be8c64be3a6a672a864c10bc4)
-
 <br>
 
-## Help
+## Informace
 > [!NOTE]
 > - `latest_release` - Hlavní zkratka pro zamyšlenou funkci.
 > - `latest_options` - Volitelná zkratka pro další nastavení.
 >   - Pokud nastavení není k dispozici, zobrazí se zpráva.
+
+### Ke stažení
+[![download](https://img.shields.io/badge/download-latest_release-slategray)](https://www.icloud.com/shortcuts/0364bb68018d42eb8dc9a6c28c00d724)
+<br>
+[![download](https://img.shields.io/badge/download-latest_options-yellow)](https://www.icloud.com/shortcuts/dc5c44de1cd8420986fee3d4675fdc91)
 
 <br>
 

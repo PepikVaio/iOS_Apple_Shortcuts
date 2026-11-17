@@ -12,14 +12,14 @@
 > - Přidávají hlavní nastavení.
 
 ### Ke stažení
-[![SYS_INIT](https://img.shields.io/badge/download-SYS_INIT-red)](https://www.icloud.com/shortcuts/b9d6e58722fd44cba92eb17c98e83ae8)
+[![SYS_INIT](https://img.shields.io/badge/download-SYS_INIT-red)](https://www.icloud.com/shortcuts/edef8973d30649899eb76f04110c628d)
 <br>
-[![SYS_check_Auto_Update](https://img.shields.io/badge/download-SYS_check_Auto_Update-orange)](https://www.icloud.com/shortcuts/9c6139c9046b4aba93808fb3901574f5)
-[![SYS_get_Data](https://img.shields.io/badge/download-SYS_get_Data-orange)](https://www.icloud.com/shortcuts/1000b899559a43a4a40a69d629c92375)
-[![SYS_check_First_Launch](https://img.shields.io/badge/download-SYS_check_First_Launch-orange)](https://www.icloud.com/shortcuts/cbf24955db9e4b9c8ac91f45208bdddb)
-[![SYS_update_Version](https://img.shields.io/badge/download-SYS_update_Version-orange)](https://www.icloud.com/shortcuts/e6d322d063ac4f258d2120bbeb1b2a31)
+[![SYS_check_Auto_Update](https://img.shields.io/badge/download-SYS_check_Auto_Update-orange)](https://www.icloud.com/shortcuts/6081905d55554f9091c4cd52f17848f4)
+[![SYS_get_Data](https://img.shields.io/badge/download-SYS_get_Data-orange)](https://www.icloud.com/shortcuts/4a7a203f2f4c41188c32149cde9d2e6b)
+[![SYS_check_First_Launch](https://img.shields.io/badge/download-SYS_check_First_Launch-orange)](https://www.icloud.com/shortcuts/08955dc23bf74348b5c3464dc1364378)
+[![SYS_update_Version](https://img.shields.io/badge/download-SYS_update_Version-orange)](https://www.icloud.com/shortcuts/b9d24ddb529a46e687ee24e8cc3f5252)
 <br>
-[![SYS_Options](https://img.shields.io/badge/download-SYS_Options-yellow)](https://www.icloud.com/shortcuts/c36ef7ead3634eb3a18fe7b375ca5007)
+[![SYS_Options](https://img.shields.io/badge/download-SYS_Options-yellow)](https://www.icloud.com/shortcuts/09f26f0b2ee34dd78d381bd9a98b3d96)
 
 <br>
 

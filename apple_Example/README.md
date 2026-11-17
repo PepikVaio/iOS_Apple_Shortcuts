@@ -7,11 +7,6 @@
 > <br>
 > This shortcut serves only as a template for creating your own shortcut.
 
-### Download
-[![download](https://img.shields.io/badge/download-latest_release-slategray)](https://www.icloud.com/shortcuts/a5480d9615ca4bab9511db40ef6b74a1)
-<br>
-[![download](https://img.shields.io/badge/download-latest_options-yellow)](https://www.icloud.com/shortcuts/2990ec3be8c64be3a6a672a864c10bc4)
-
 <br>
 
 ## Help
@@ -19,6 +14,11 @@
 > - `latest_release` - Main shortcut for thoughtful function.
 > - `latest_options` - Optional shortcut for additional settings.
 >   - If the setting is not available, a message is displayed.
+
+### Info
+[![download](https://img.shields.io/badge/download-latest_release-slategray)](https://www.icloud.com/shortcuts/0364bb68018d42eb8dc9a6c28c00d724)
+<br>
+[![download](https://img.shields.io/badge/download-latest_options-yellow)](https://www.icloud.com/shortcuts/dc5c44de1cd8420986fee3d4675fdc91)
 
 <br>
 
