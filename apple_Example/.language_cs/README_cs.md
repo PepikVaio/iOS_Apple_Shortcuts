@@ -9,16 +9,16 @@
 
 <br>
 
+### Ke stažení
+[![download](https://img.shields.io/badge/download-latest_release-slategray)](https://www.icloud.com/shortcuts/0364bb68018d42eb8dc9a6c28c00d724)
+<br>
+[![download](https://img.shields.io/badge/download-latest_options-yellow)](https://www.icloud.com/shortcuts/dc5c44de1cd8420986fee3d4675fdc91)
+
 ## Informace
 > [!NOTE]
 > - `latest_release` - Hlavní zkratka pro zamyšlenou funkci.
 > - `latest_options` - Volitelná zkratka pro další nastavení.
 >   - Pokud nastavení není k dispozici, zobrazí se zpráva.
-
-### Ke stažení
-[![download](https://img.shields.io/badge/download-latest_release-slategray)](https://www.icloud.com/shortcuts/0364bb68018d42eb8dc9a6c28c00d724)
-<br>
-[![download](https://img.shields.io/badge/download-latest_options-yellow)](https://www.icloud.com/shortcuts/dc5c44de1cd8420986fee3d4675fdc91)
 
 <br>
 
