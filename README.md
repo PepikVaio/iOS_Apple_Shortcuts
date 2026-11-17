@@ -43,9 +43,4 @@ Create issues if you find a problem.
 
 ## Version history
 > [!NOTE]
-> ### version 17/11/2026 ###
-> - Change repository name (reMarkable_Apple_Shortcuts -> iOS_Apple_Shortcuts).
-
-> [!NOTE]
-> ### version 1.0 ###
-> - first release
+> 17/11/2026 - change repository name (reMarkable_Apple_Shortcuts -> iOS_Apple_Shortcuts).
