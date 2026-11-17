@@ -20,7 +20,6 @@ Just open the link on your iPhone.
 > - iPhone
 > - [apple_Main](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Main)
 
-
 ### Usage
 - [apple_Diacritics_CS](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Diacritics_CS) - Adding diacritics to text.
 - [apple_Example](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Example) - Example shortcut for demonstration purposes.
@@ -39,3 +38,14 @@ Create issues if you find a problem.
 > Inspiration, code snippets, etc...
 > - [readme - multi language](https://github.com/jonatasemidio/multilanguage-readme-pattern)
 > - [readme - icons](https://shields.io/)
+
+<br>
+
+## Version history
+> [!NOTE]
+> ### version 17/11/2026 ###
+> - Change repository name (reMarkable_Apple_Shortcuts -> iOS_Apple_Shortcuts).
+
+> [!NOTE]
+> ### version 1.0 ###
+> - first release
