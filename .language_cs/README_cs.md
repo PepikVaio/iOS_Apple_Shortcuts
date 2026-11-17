@@ -44,9 +44,4 @@ Vytvořte problémy, pokud najdete problém.
 
 ## Historie verzí
 > [!NOTE]
-> ### verze 17/11/2026 ###
-> - Změna názvu repozitáře (reMarkable_Apple_Shortcuts → iOS_Apple_Shortcuts).
-
-> [!NOTE]
-> ### verze 1.0 ###
-> - První vydání
+> 17/11/2026 - změna názvu repozitáře (reMarkable_Apple_Shortcuts → iOS_Apple_Shortcuts).
