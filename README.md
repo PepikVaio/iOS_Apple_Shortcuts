@@ -43,4 +43,6 @@ Create issues if you find a problem.
 
 ## Version history
 > [!NOTE]
-> 17/11/2026 - change repository name (reMarkable_Apple_Shortcuts -> iOS_Apple_Shortcuts).
+> 17/11/2026
+> - replaced iCloud storage with Apple Storage for data storage.
+> - change repository name (reMarkable_Apple_Shortcuts -> iOS_Apple_Shortcuts).
