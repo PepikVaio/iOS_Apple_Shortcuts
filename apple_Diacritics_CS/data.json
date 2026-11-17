@@ -2,7 +2,7 @@
 
   "info": {
     "title": "Diacritics CS!",
-    "version": "3.0",
+    "version": "2.0",
     "description": {
       "cs": "Doplnění diakritiky do textu.",
       "en": "Adding diacritics to text."
@@ -58,7 +58,6 @@
 
     "release": {
       "installed_Content": [
-        "AAA.",
         "English language added.",
         "* Added option to clear the clipboard.",
         "* Added check for new updates.",
