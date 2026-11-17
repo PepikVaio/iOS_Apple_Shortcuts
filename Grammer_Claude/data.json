@@ -45,7 +45,7 @@
     },
 
     "module_AI": {
-      "input": "Zadej anglický text ke kontrole",
+      "input": "Zadej anglický text ke kontrole:",
       "error_Title": "Žádný text!",
       "error_Content": "Chceš ho zadat znovu?",
 
@@ -112,7 +112,7 @@
     },
 
     "module_AI": {
-      "input": "Enter the English text you want checked",
+      "input": "Enter the English text you want checked:",
       "error_Title": "No text!",
       "error_Content": "Would you like to enter it again?",
 
