@@ -44,4 +44,6 @@ Vytvořte problémy, pokud najdete problém.
 
 ## Historie verzí
 > [!NOTE]
-> 17/11/2026 - změna názvu repozitáře (reMarkable_Apple_Shortcuts → iOS_Apple_Shortcuts).
+> 17/11/2026
+> - nahrazení úložiště iCloud za Apple Storage pro ukládání dat.
+> - změna názvu repozitáře (reMarkable_Apple_Shortcuts → iOS_Apple_Shortcuts).
