@@ -14,7 +14,7 @@
 
 <br>
 
-## Informace
+## Pomoc
 > [!NOTE]
 > - `latest_release` - Hlavní zkratka pro zamyšlenou funkci.
 > - `latest_options` - Volitelná zkratka pro další nastavení.
