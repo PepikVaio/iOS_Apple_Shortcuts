@@ -68,16 +68,8 @@
         "05. Pokud je má věta špatná, nevracej mi ji vůbec.",
         "06. Pokud budeš mít návrhy na lepší věty, dej mi je jako další možnosti.",
         "07. Nic jiného nepiš.",
-        "08. Body 1 a 2 mi dej bez zvýraznění [*, -, ...].",
-        "",
-        "Zde jsou uživatelská pravidla:"
+        "08. Body 1 a 2 mi dej bez zvýraznění [*, -, ...]."
       ],
-
-
-
-
-
-
       "sentence": "Zde je věta k rozboru:",
 
       "option": "Vyber jednu z možností, nebo otevři aplikaci Claude a pokračuj tam:",
