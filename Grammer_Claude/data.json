@@ -54,6 +54,11 @@
         "Ahoj, zkontroluj prosím správnost gramatiky.",
         "Pokud to není správně, navrhni lepší."
       ],
+      "task_User": {
+        "fast": "Odpověz stručně. Uveď pouze případné chyby a jejich opravu.",
+        "regular": "Vysvětli gramatiku, interpunkci, slovosled a přirozenost věty.",
+        "detailed": "Proveď důkladný jazykový rozbor. Vysvětli gramatická pravidla, stylistiku a navrhni alternativní formulace."
+      },
       "rules": [
         "Zde jsou pravidla:",
         "01. Jako první mi dej zhodnocení mé věty.",
@@ -63,13 +68,14 @@
         "05. Pokud je má věta špatná, nevracej mi ji vůbec.",
         "06. Pokud budeš mít návrhy na lepší věty, dej mi je jako další možnosti.",
         "07. Nic jiného nepiš.",
-        "08. Body 1 a 2 mi dej bez zvýraznění [*, -, ...]."
+        "08. Body 1 a 2 mi dej bez zvýraznění [*, -, ...].",
+        "",
+        "Zde jsou uživatelská pravidla:"
       ],
-      "rules_User": {
-        "fast": "Odpověz stručně. Uveď pouze případné chyby a jejich opravu.",
-        "regular": "Vysvětli gramatiku, interpunkci, slovosled a přirozenost věty.",
-        "detailed": "Proveď důkladný jazykový rozbor. Vysvětli gramatická pravidla, stylistiku a navrhni alternativní formulace."
-      },
+
+
+
+
 
 
       "sentence": "Zde je věta k rozboru:",
