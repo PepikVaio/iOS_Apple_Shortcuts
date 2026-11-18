@@ -65,6 +65,13 @@
         "07. Nic jiného nepiš.",
         "08. Body 1 a 2 mi dej bez zvýraznění [*, -, ...]."
       ],
+      "rules_User": {
+        "fast": "Odpověz stručně. Uveď pouze případné chyby a jejich opravu.",
+        "regular": "Vysvětli gramatiku, interpunkci, slovosled a přirozenost věty.",
+        "detailed": "Proveď důkladný jazykový rozbor. Vysvětli gramatická pravidla, stylistiku a navrhni alternativní formulace."
+      },
+
+
       "sentence": "Zde je věta k rozboru:",
 
       "option": "Vyber jednu z možností, nebo otevři aplikaci Claude a pokračuj tam:",
