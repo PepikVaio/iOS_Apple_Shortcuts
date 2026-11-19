@@ -38,6 +38,7 @@
 > [!NOTE]
 > ### version 1.1 ###
 > - SYS_Options - doplnění názvu hledané zkratky pro dalíš nastavení (při neúspěšném pokusu nalezení)
+> - Example_Options - změna zavírání dodatečného nastavení (nyní se po skončení akce otevře dodatečné nastavení)
 
 > [!NOTE]
 > ### version 1.0 ###
