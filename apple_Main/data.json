@@ -68,11 +68,14 @@
 
     "menu": {
       "title": "┃*** Vítejte v Apple Shortcuts! ***",
+
+      "99": {
+        "title": "Nastavení",
+        "content": "O zkratce, Poslat zpětnou vazbu, Resetovat nastavení ..."
+      },
     },
 
     "submenu": {
-      "title": "Nastavení",
-      "content": "O zkratce, Poslat zpětnou vazbu, Resetovat nastavení ...",
       "about": "O zkratce",
       "feedback": "Poslat zpětnou vazbu",
       "language": "Nastavit jazyk na Angličtinu",
@@ -90,8 +93,6 @@
       ],
       "other_Info": "Pro tuto zkratku nebyly nalezeny žádné další možnosti nastavení!"
     }
-    
-
   },
 
   "en": {
@@ -151,11 +152,14 @@
 
     "menu": {
       "title": "┃*** Welcome to Apple Shortcuts! ***",
+
+      "99": {
+        "title": "Settings",
+        "content": "About, Send feedback, Reset settings ..."
+      },
     },
 
-    "99": {
-      "title": "Settings",
-      "content": "About, Send feedback, Reset settings ...",
+    "submenu": {
       "about": "About",
       "feedback": "Send feedback",
       "language": "Set language to Czech",
