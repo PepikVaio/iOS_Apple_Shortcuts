@@ -40,6 +40,7 @@
 > - SYS_Options - added the name of the shortcut being searched for in additional settings (when the search is unsuccessful)
 > - SYS_Options - changed how additional settings are closed (additional settings now open after the action is completed)
 > - Example_Options - changed how additional settings are closed (additional settings now open after the action is completed)
+> - changed menu.99.submenu... to submenu... in JSON files
 
 > [!NOTE]
 > ### version 1.0 ###
