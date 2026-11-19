@@ -68,28 +68,30 @@
 
     "menu": {
       "title": "┃*** Vítejte v Apple Shortcuts! ***",
+    },
 
-      "99": {
-        "title": "Nastavení",
-        "content": "O zkratce, Poslat zpětnou vazbu, Resetovat nastavení ...",
-        "submenu_About": "O zkratce",
-        "submenu_Feedback": "Poslat zpětnou vazbu",
-        "submenu_Language": "Nastavit jazyk na Angličtinu",
-        "submenu_Update": "aktualizace | Zakázat / Povolit",
-        "submenu_Reset": "Resetovat nastavení",
-        "submenu_Other": "Další možnosti ❯",
-        "submenu_Back": "❮ Zpět",
-        "feedback_Device": "Zařízení:",
-        "feedback_Version": "Verze systému:",
-        "feedback_Thanks": [
-          "",
-          "Děkuji za zaslání emailu.",
-          "Pokusím se odpovědět co nejdříve.",
-          ""
-        ],
-        "other_Info": "Pro tuto zkratku nebyly nalezeny žádné další možnosti nastavení!"
-      }
+    "submenu": {
+      "title": "Nastavení",
+      "content": "O zkratce, Poslat zpětnou vazbu, Resetovat nastavení ...",
+      "about": "O zkratce",
+      "feedback": "Poslat zpětnou vazbu",
+      "language": "Nastavit jazyk na Angličtinu",
+      "update": "aktualizace | Zakázat / Povolit",
+      "reset": "Resetovat nastavení",
+      "other": "Další možnosti ❯",
+      "back": "❮ Zpět",
+      "feedback_Device": "Zařízení:",
+      "feedback_Version": "Verze systému:",
+      "feedback_Thanks": [
+        "",
+        "Děkuji za zaslání emailu.",
+        "Pokusím se odpovědět co nejdříve.",
+        ""
+      ],
+      "other_Info": "Pro tuto zkratku nebyly nalezeny žádné další možnosti nastavení!"
     }
+    
+
   },
 
   "en": {
@@ -149,27 +151,27 @@
 
     "menu": {
       "title": "┃*** Welcome to Apple Shortcuts! ***",
+    },
 
-      "99": {
-        "title": "Settings",
-        "content": "About, Send feedback, Reset settings ...",
-        "submenu_About": "About",
-        "submenu_Feedback": "Send feedback",
-        "submenu_Language": "Set language to Czech",
-        "submenu_Update": "updates | Disable / Enable",
-        "submenu_Other": "Other options ❯",
-        "submenu_Reset": "Reset settings",
-        "submenu_Back": "❮ Back",
-        "feedback_Device": "Device:",
-        "feedback_Version": "System version:",
-        "feedback_Thanks": [
-          "",
-          "Thank you for sending email.",
-          "I will try to reply as soon as possible.",
-          ""
-        ],
-        "other_Info": "No additional settings were found for this shortcut!"
-      }
+    "99": {
+      "title": "Settings",
+      "content": "About, Send feedback, Reset settings ...",
+      "about": "About",
+      "feedback": "Send feedback",
+      "language": "Set language to Czech",
+      "update": "updates | Disable / Enable",
+      "other": "Other options ❯",
+      "reset": "Reset settings",
+      "back": "❮ Back",
+      "feedback_Device": "Device:",
+      "feedback_Version": "System version:",
+      "feedback_Thanks": [
+        "",
+        "Thank you for sending email.",
+        "I will try to reply as soon as possible.",
+        ""
+      ],
+      "other_Info": "No additional settings were found for this shortcut!"
     }
   },
 
