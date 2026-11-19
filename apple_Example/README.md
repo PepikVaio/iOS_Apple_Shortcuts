@@ -10,7 +10,7 @@
 ### Download
 [![download](https://img.shields.io/badge/download-latest_release-slategray)](https://www.icloud.com/shortcuts/0364bb68018d42eb8dc9a6c28c00d724)
 <br>
-[![download](https://img.shields.io/badge/download-latest_options-yellow)](https://www.icloud.com/shortcuts/dc5c44de1cd8420986fee3d4675fdc91)
+[![download](https://img.shields.io/badge/download-latest_options-yellow)](https://www.icloud.com/shortcuts/8ebabf42dcc144e98cf5f4f63b0decd6)
 
 <br>
 
