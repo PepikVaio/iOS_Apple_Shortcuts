@@ -74,11 +74,11 @@
         "title": "Example - Title 02",
         "content": "Example - Content 02 ..."
       },
+    },
 
-      "99": {
-        "submenu_Example_01": "Example - Next menu 01",
-        "submenu_Example_02": "Example - Next menu 02"
-      }
+    "submenu": {
+      "example_01": "Example - Next menu 01",
+      "example_02": "Example - Next menu 02"
     }
   },
 
