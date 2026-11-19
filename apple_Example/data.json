@@ -38,11 +38,11 @@
         "title": "Ukázka - Title 02",
         "content": "Ukázka - Content 02 ..."
       },
+    },
 
-      "99": {
-        "submenu_Example_01": "Ukázka - Dalšího menu 01",
-        "submenu_Example_02": "Ukázka - Dalšího menu 02"
-      }
+    "submenu": {
+      "example_01": "Ukázka - Dalšího menu 01",
+      "example_02": "Ukázka - Dalšího menu 02"
     }
   },
 
