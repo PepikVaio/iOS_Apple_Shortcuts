@@ -38,6 +38,7 @@
 > [!NOTE]
 > ### version 1.1 ###
 > - SYS_Options - added the name of the shortcut being searched for in additional settings (when the search is unsuccessful)
+> - Example_Options - changed how additional settings are closed (additional settings now open after the action is completed)
 
 > [!NOTE]
 > ### version 1.0 ###
