@@ -37,11 +37,15 @@
         "title": "Vložit ze schránky",
         "content": "Vloží text uložený ve schránce ..."
       },
+    },
 
-      "99": {
-        "submenu_Example_01": "Ukázka - Dalšího menu 01",
-        "submenu_Example_02": "Ukázka - Dalšího menu 02"
+    "submenu": {
+
+      "01": {
+        "title": "Ukázka - Title 01",
+        "content": ["fast", "regular", "detailed"]
       }
+
     },
 
     "module_AI": {
