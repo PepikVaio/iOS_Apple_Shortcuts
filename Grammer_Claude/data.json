@@ -5,7 +5,7 @@
     "version": "3.0",
     "description": {
       "cs": "Analyzuje anglický text a navrhne opravy.",
-      "en": "Analyze the English text and suggest corrections."
+      "en": "Analyzes English text and suggests corrections."
     }
   },
 
@@ -36,7 +36,7 @@
       "02": {
         "title": "Vložit ze schránky",
         "content": "Vloží text uložený ve schránce ..."
-      },
+      }
     },
 
     "submenu": {
@@ -122,11 +122,12 @@
     "submenu": {
 
       "01": {
-        "title": "Response detail Level",
-        "content": ["fast", "standard", "detailed"]
+        "title": "Response detail level",
+        "content": "Select one of the options:",
+        "option": ["fast", "standard", "detailed"]
       },
       "02": {
-        "title": "Custom sesponse Instructions",
+        "title": "Custom response Instructions",
         "content": "Enter your custom instruction:"
       }
     },
