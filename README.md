@@ -1,5 +1,5 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts)
-[![cs](https://img.shields.io/badge/lang-cs-springgreen.svg)](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/blob/main/.language_cs/README_cs.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/PepikVaio/iOS_Apple_Shortcuts)
+[![cs](https://img.shields.io/badge/lang-cs-springgreen.svg)](https://github.com/PepikVaio/iOS_Apple_Shortcuts/blob/main/.language_cs/README_cs.md)
 [![supported: iPhone](https://img.shields.io/badge/iPhone-supported-blueviolet)](https://www.apple.com/cz/iphone/)
 
 
@@ -18,12 +18,13 @@ Just open the link on your iPhone.
 > [!IMPORTANT]
 > Before installation, make sure you meet all the requirements:
 > - iPhone
-> - [apple_Main](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Main)
+> - [apple_Main](https://github.com/PepikVaio/iOS_Apple_Shortcuts/tree/main/apple_Main)
 
 ### Usage
 - [apple_Example](https://github.com/PepikVaio/iOS_Apple_Shortcuts/tree/main/apple_Example) - Example shortcut for demonstration purposes.
 - [apple_Main](https://github.com/PepikVaio/iOS_Apple_Shortcuts/tree/main/apple_Main) - Main shortcuts (required for all others).
-- [reMarkable_Diacritics_CS](https://github.com/PepikVaio/iOS_Apple_Shortcuts/tree/main/apple_Diacritics_CS) - Adding diacritics to text.
+- [Grammer_Claude](https://github.com/PepikVaio/iOS_Apple_Shortcuts/tree/main/Grammer_Claude) - Check your skills.
+- [reMarkable_Diacritics_CS](https://github.com/PepikVaio/iOS_Apple_Shortcuts/tree/main/reMarkable_Diacritics_CS) - Adding diacritics to text.
 
 <br>
 
