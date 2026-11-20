@@ -46,8 +46,7 @@
         "content": ["rychlá", "standardní", "detailní"]
       },
       "02": {
-        "title": "Vyber jednu z možností odpovědi:",
-        "content": ["rychlá", "standardní", "detailní"]
+        "title": "Vlastní požadavky odpovědi"
       }
     },
 
