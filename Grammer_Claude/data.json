@@ -1,5 +1,4 @@
 {
-
   "info": {
     "title": "Grammer - Claude!",
     "version": "3.0",
@@ -12,11 +11,13 @@
   "cs": {
 
     "release": {
+
       "installed_Content": [
         "Kompletní přepracování",
         "* Přesun do systému aktualizací.",
         "* Přídavné menu."
       ]
+
     },
 
     "menu": {
@@ -46,10 +47,12 @@
         "content": "Vyberte jednu z možností:",
         "option": ["rychlá", "standardní", "detailní"]
       },
+
       "02": {
         "title": "Vlastní pravidla odpovědi",
         "content": "Zadejte vlastní pravidlo:"
       }
+
     },
 
     "module_AI": {
@@ -62,11 +65,13 @@
         "Ahoj, zkontroluj prosím správnost gramatiky.",
         "Pokud to není správně, navrhni lepší."
       ],
+
       "task_User": {
         "fast": "Odpověz stručně. Uveď pouze případné chyby a jejich opravu.",
         "regular": "Vysvětli gramatiku, interpunkci, slovosled a přirozenost věty.",
         "detailed": "Proveď důkladný jazykový rozbor. Vysvětli gramatická pravidla, stylistiku a navrhni alternativní formulace."
       },
+
       "rules": [
         "Zde jsou pravidla:",
         "01. Jako první mi dej zhodnocení mé věty.",
@@ -78,8 +83,8 @@
         "07. Nic jiného nepiš.",
         "08. Body 1 a 2 mi dej bez zvýraznění [*, -, ...]."
       ],
-      "sentence": "Zde je věta k rozboru:",
 
+      "sentence": "Zde je věta k rozboru:",
       "option": "Vyber jednu z možností, nebo otevři aplikaci Claude a pokračuj tam:",
       "list_02": "💬 Pokračovat v Claude!"
         
@@ -87,16 +92,16 @@
 
   },
 
-
-
   "en": {
 
     "release": {
+
       "installed_Content": [
         "Complete overhaul",
         "* Migrated to the update system.",
         "* Additional menu."
       ]
+
     },
 
     "menu": {
@@ -117,6 +122,7 @@
         "title": "Paste from Clipboard",
         "content": "Pastes the text stored in the clipboard ..."
       }
+
     },
 
     "submenu": {
@@ -126,10 +132,12 @@
         "content": "Select one of the options:",
         "option": ["fast", "standard", "detailed"]
       },
+
       "02": {
         "title": "Custom response Instructions",
         "content": "Enter your custom instruction:"
       }
+
     },
 
     "module_AI": {
@@ -156,14 +164,12 @@
       ],
 
       "sentence": "Here is the sentence to review:",
-
       "option": "Choose one of the options, or open the Claude app and continue there:",
       "list_02": "💬 Continue in Claude!"
         
     }
 
   },
-
 
   "icons": {
 
