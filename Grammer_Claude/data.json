@@ -42,10 +42,13 @@
     "submenu": {
 
       "01": {
-        "title": "Ukázka - Title 01",
-        "content": ["fast", "regular", "detailed"]
+        "title": "Úroveň podrobnosti odpovědi",
+        "content": ["rychlá", "standardní", "detailní"]
+      },
+      "02": {
+        "title": "Vyber jednu z možností odpovědi:",
+        "content": ["rychlá", "standardní", "detailní"]
       }
-
     },
 
     "module_AI": {
