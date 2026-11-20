@@ -43,13 +43,11 @@
 
       "01": {
         "title": "Úroveň podrobnosti odpovědi",
-            "content": [
-              ["fast", "rychlá2"],
-              ["regular", "standardní2"],
-              ["detailed", "detailní2"]
-            ]      },
+        "content": ["rychlá", "standardní", "detailní"]
+      },
       "02": {
-        "title": "Vlastní požadavky odpovědi"
+        "title": "Vlastní pravidla odpovědi",
+        "content": "Zadejte vlastní pravidlo:"
       }
     },
 
