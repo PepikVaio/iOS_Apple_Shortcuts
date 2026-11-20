@@ -43,7 +43,8 @@
 
       "01": {
         "title": "Úroveň podrobnosti odpovědi",
-        "content": ["rychlá", "standardní", "detailní"]
+        "content": "Vyberte jednu z mozností:",
+        "option": ["rychlá", "standardní", "detailní"]
       },
       "02": {
         "title": "Vlastní pravidla odpovědi",
@@ -121,10 +122,13 @@
     "submenu": {
 
       "01": {
-        "title": "Example - Next menu 01",
-        "content": ["fast", "regular", "detailed"]
+        "title": "Response detail Level",
+        "content": ["fast", "standard", "detailed"]
+      },
+      "02": {
+        "title": "Custom sesponse Instructions",
+        "content": "Enter your custom instruction:"
       }
-
     },
 
     "module_AI": {
