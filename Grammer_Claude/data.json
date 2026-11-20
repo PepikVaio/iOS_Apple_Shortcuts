@@ -112,12 +112,16 @@
       "02": {
         "title": "Paste from Clipboard",
         "content": "Pastes the text stored in the clipboard ..."
-      },
-
-      "99": {
-        "submenu_Example_01": "Example - Next menu 01",
-        "submenu_Example_02": "Example - Next menu 02"
       }
+    },
+
+    "submenu": {
+
+      "01": {
+        "title": "Example - Next menu 01",
+        "content": ["fast", "regular", "detailed"]
+      }
+
     },
 
     "module_AI": {
