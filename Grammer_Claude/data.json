@@ -43,7 +43,7 @@
 
       "01": {
         "title": "Úroveň podrobnosti odpovědi",
-        "content": "Vyberte jednu z mozností:",
+        "content": "Vyberte jednu z možností:",
         "option": ["rychlá", "standardní", "detailní"]
       },
       "02": {
