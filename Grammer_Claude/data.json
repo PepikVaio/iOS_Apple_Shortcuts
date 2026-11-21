@@ -67,9 +67,9 @@
       ],
 
       "task_User": {
-        "rychlá": "Odpověz stručně. Uveď pouze případné chyby a jejich opravu.",
-        "standardní": "Vysvětli gramatiku, interpunkci, slovosled a přirozenost věty.",
-        "detailní": "Proveď důkladný jazykový rozbor. Vysvětli gramatická pravidla, stylistiku a navrhni alternativní formulace."
+        "fast": "Odpověz stručně. Uveď pouze případné chyby a jejich opravu.",
+        "standard": "Vysvětli gramatiku, interpunkci, slovosled a přirozenost věty.",
+        "detailed": "Proveď důkladný jazykový rozbor. Vysvětli gramatická pravidla, stylistiku a navrhni alternativní formulace."
       },
 
       "rules": [
