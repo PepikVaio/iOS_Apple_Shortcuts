@@ -68,7 +68,7 @@
 
       "task_User": {
         "fast": "Odpověz stručně. Uveď pouze případné chyby a jejich opravu.",
-        "regular": "Vysvětli gramatiku, interpunkci, slovosled a přirozenost věty.",
+        "standard": "Vysvětli gramatiku, interpunkci, slovosled a přirozenost věty.",
         "detailed": "Proveď důkladný jazykový rozbor. Vysvětli gramatická pravidla, stylistiku a navrhni alternativní formulace."
       },
 
@@ -151,16 +151,22 @@
         "If it is incorrect, suggest a better version."
       ],
 
+      "task_User": {
+        "fast": "Keep your response brief. Only point out any errors and provide their corrections.",
+        "standard": "Explain the grammar, punctuation, word order, and naturalness of the sentence.",
+        "detailed": "Provide a thorough linguistic analysis. Explain the grammatical rules and style, and suggest alternative phrasings."
+      },
+
       "rules": [
         "Here are the rules:",
-        "01. First, give me an assessment of my sentence.",
-        "02. Tell me whether you are returning my original sentence because it is correct or only providing alternative suggestions.",
-        "03. Put each suggestion in a separate block so that I can easily copy them one at a time.",
-        "04. If my sentence is correct, return it as the first option, unchanged.",
-        "05. If my sentence is incorrect, do not return it at all.",
-        "06. If you have suggestions for better sentences, provide them as additional options.",
-        "07. Do not write anything else.",
-        "08. Write points 1 and 2 without any formatting markers [*, -, ...]."
+        "01. Always divide your response into three parts in the following order. Leave only one blank line between each part. Do not use separator lines.",
+        "02. Part 1 – Assessment: Start with the line '📝 ASSESSMENT' and briefly evaluate my sentence below it.",
+        "03. Part 2 – Status: Start with the line '🔎 STATUS' and state whether you are returning my original sentence because it is correct or only providing alternative suggestions.",
+        "04. Part 3 – Suggestions: Start with the line '✨ SUGGESTIONS' and put each suggestion in a separate code block so it can be easily copied.",
+        "05. If my sentence is correct, return it unchanged as the first suggestion.",
+        "06. If my sentence is incorrect, do not return it at all.",
+        "07. If you have suggestions for better sentences, add them as additional suggestions.",
+        "08. Do not use headings, bold text, tables, boxes, or formatting markers [*, -, ...]."
       ],
 
       "sentence": "Here is the sentence to review:",
