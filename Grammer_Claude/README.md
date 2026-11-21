@@ -1,4 +1,4 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/PepikVaio/iOS_Apple_Shortcuts/tree/main/apple_Send_to...)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/PepikVaio/iOS_Apple_Shortcuts/tree/main/Grammer_Claude)
 [![cs](https://img.shields.io/badge/lang-cs-springgreen.svg)](https://github.com/PepikVaio/iOS_Apple_Shortcuts/blob/main/Grammer_Claude/.language_cs/README_cs.md)
 
 # Grammer - Claude!
