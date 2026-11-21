@@ -1,5 +1,5 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/PepikVaio/iOS_Apple_Shortcuts/tree/main/apple_Send_to...)
-[![cs](https://img.shields.io/badge/lang-cs-springgreen.svg)](https://github.com/PepikVaio/iOS_Apple_Shortcuts/blob/main/apple_Send_to.../.language_cs/README_cs.md)
+[![cs](https://img.shields.io/badge/lang-cs-springgreen.svg)](https://github.com/PepikVaio/iOS_Apple_Shortcuts/blob/main/Grammer_Claude/.language_cs/README_cs.md)
 
 # Grammer - Claude!
 > Improve your English skills.
