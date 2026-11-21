@@ -74,14 +74,14 @@
 
       "rules": [
         "Zde jsou pravidla:",
-        "01. Jako první mi dej zhodnocení mé věty.",
-        "02. Napiš mi informaci, jestli mi vracíš původní větu, která je správná, nebo nabízíš jen jiné možnosti.",
-        "03. Všechny návrhy mi dej do samostatných bloků, aby se daly lehce po jednom zkopírovat.",
-        "04. Pokud je má věta správná, vrať mi ji jako první možnost v nezměněné podobě.",
-        "05. Pokud je má věta špatná, nevracej mi ji vůbec.",
-        "06. Pokud budeš mít návrhy na lepší věty, dej mi je jako další možnosti.",
-        "07. Nic jiného nepiš.",
-        "08. Body 1 a 2 mi dej bez zvýraznění [*, -, ...]."
+        "01. Odpověď vždy rozděl do tří částí v tomto pořadí. Mezi částmi nech jen jeden prázdný řádek, žádné oddělovací čáry.",
+        "02. Část 1 – Hodnocení: začni řádkem '📝 HODNOCENÍ' a pod ním napiš stručné zhodnocení mé věty.",
+        "03. Část 2 – Stav: začni řádkem '🔎 STAV' a pod ním napiš, zda vracíš původní větu, která je správná, nebo nabízíš jen jiné možnosti.",
+        "04. Část 3 – Návrhy: začni řádkem '✨ NÁVRHY' a každý návrh dej do samostatného code bloku, aby se dal lehce zkopírovat.",
+        "05. Pokud je má věta správná, vrať ji jako první návrh v nezměněné podobě.",
+        "06. Pokud je má věta špatná, nevracej ji vůbec.",
+        "07. Pokud budeš mít návrhy na lepší věty, přidej je jako další návrhy.",
+        "08. Nepoužívej nadpisy, tučné písmo, tabulky, rámečky ani zvýraznění [*, -, ...]."
       ],
 
       "sentence": "Zde je věta k rozboru:",
