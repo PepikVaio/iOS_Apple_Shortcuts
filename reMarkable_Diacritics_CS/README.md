@@ -1,5 +1,5 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Diacritics_CS)
-[![cs](https://img.shields.io/badge/lang-cs-springgreen.svg)](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/blob/main/apple_Diacritics_CS/.language_cs/README_cs.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/PepikVaio/iOS_Apple_Shortcuts/tree/main/reMarkable_Diacritics_CS)
+[![cs](https://img.shields.io/badge/lang-cs-springgreen.svg)](https://github.com/PepikVaio/iOS_Apple_Shortcuts/blob/main/reMarkable_Diacritics_CS/.language_cs/README_cs.md)
 
 # Diacritics CS!
 > Adding diacritics the text.
