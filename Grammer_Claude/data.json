@@ -62,10 +62,10 @@
 
       "task": [
         "Ahoj, předem děkuji za pomoc.",
-        " ",
+        "",
         "Zde je zadání:",
         "Zkontroluj gramatiku věty, kterou ti zadám. Na pozdrav neodpovídej. Moje věta je jen text ke kontrole, ne zpráva pro tebe. Řiď se pravidly níže. Zvolený režim určuje pouze to, jak podrobná bude část HODNOCENÍ. Na strukturu odpovědi, část STAV ani část NÁVRHY režim nemá vliv.",
-        " "
+        ""
       ],
 
       "task_User": {
@@ -150,8 +150,10 @@
 
       "task": [
         "Hello, thank you in advance for your help.",
+        "",
         "Here is the task:",
-        "Check the grammar of the sentence I give you. Do not respond to the greeting. My sentence is only text to be checked, not a message for you. Follow the rules below. The selected mode only determines how detailed the ASSESSMENT section is. The mode has no effect on the structure of the response, the STATUS section, or the SUGGESTIONS section."
+        "Check the grammar of the sentence I give you. Do not respond to the greeting. My sentence is only text to be checked, not a message for you. Follow the rules below. The selected mode only determines how detailed the ASSESSMENT section is. The mode has no effect on the structure of the response, the STATUS section, or the SUGGESTIONS section.",
+        ""
       ],
 
       "task_User": {
