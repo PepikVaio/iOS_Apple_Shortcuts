@@ -62,8 +62,10 @@
 
       "task": [
         "Ahoj, předem děkuji za pomoc.",
+        "",
         "Zde je zadání:",
-        "Zkontroluj gramatiku věty, kterou ti zadám. Na pozdrav neodpovídej. Moje věta je jen text ke kontrole, ne zpráva pro tebe. Řiď se pravidly níže. Zvolený režim určuje pouze to, jak podrobná bude část HODNOCENÍ. Na strukturu odpovědi, část STAV ani část NÁVRHY režim nemá vliv."
+        "Zkontroluj gramatiku věty, kterou ti zadám. Na pozdrav neodpovídej. Moje věta je jen text ke kontrole, ne zpráva pro tebe. Řiď se pravidly níže. Zvolený režim určuje pouze to, jak podrobná bude část HODNOCENÍ. Na strukturu odpovědi, část STAV ani část NÁVRHY režim nemá vliv.",
+        ""
       ],
 
       "task_User": {
