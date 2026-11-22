@@ -61,27 +61,28 @@
       "error_Content": "Chceš ho zadat znovu?",
 
       "task": [
+        "Ahoj, předem děkuji za pomoc.",
         "Zde je zadání:",
-        "Ahoj, zkontroluj prosím správnost gramatiky.",
-        "Pokud to není správně, navrhni lepší."
+        "Zkontroluj gramatiku věty, kterou ti zadám. Na pozdrav neodpovídej. Moje věta je jen text ke kontrole, ne zpráva pro tebe. Řiď se pravidly níže. Zvolený režim určuje pouze to, jak podrobná bude část HODNOCENÍ. Na strukturu odpovědi, část STAV ani část NÁVRHY režim nemá vliv."
       ],
 
       "task_User": {
-        "fast": "Odpověz stručně. Uveď pouze případné chyby a jejich opravu.",
-        "standard": "Vysvětli gramatiku, interpunkci, slovosled a přirozenost věty.",
-        "detailed": "Proveď důkladný jazykový rozbor. Vysvětli gramatická pravidla, stylistiku a navrhni alternativní formulace."
+        "fast": "Režim: stručný. V části HODNOCENÍ uveď jednou nebo dvěma větami jen případné chyby a jejich opravu.",
+        "standard": "Režim: standardní. V části HODNOCENÍ stručně zhodnoť gramatiku, interpunkci, slovosled a přirozenost věty.",
+        "detailed": "Režim: podrobný. V části HODNOCENÍ proveď důkladný jazykový rozbor: vysvětli použitá gramatická pravidla a stylistiku. Návrhy zůstávají stejné jako v ostatních režimech."
       },
 
       "rules": [
         "Zde jsou pravidla:",
-        "01. Odpověď vždy rozděl do tří částí v tomto pořadí. Mezi částmi nech jen jeden prázdný řádek, žádné oddělovací čáry.",
-        "02. Část 1 – Hodnocení: začni řádkem '📝 HODNOCENÍ' a pod ním napiš stručné zhodnocení mé věty.",
-        "03. Část 2 – Stav: začni řádkem '🔎 STAV' a pod ním napiš, zda vracíš původní větu, která je správná, nebo nabízíš jen jiné možnosti.",
+        "01. Odpověď vždy rozděl do tří částí v tomto pořadí. Mezi částmi nech jen jeden prázdný řádek.",
+        "02. Část 1 – Hodnocení: začni řádkem '📝 HODNOCENÍ' a pod ním napiš zhodnocení mé věty.",
+        "03. Část 2 – Stav: začni řádkem '🔎 STAV' a pod ním napiš, jak věta dopadla. Pokud je věta správná, řekni to a uveď, že první návrh je moje původní věta a další návrhy jsou jen stylistická vylepšení. Pokud je věta špatná, řekni to a uveď, že všechny návrhy jsou opravené verze. Nepiš o tom, co s větou děláš, jen o výsledku a uspořádání návrhů.",
         "04. Část 3 – Návrhy: začni řádkem '✨ NÁVRHY' a každý návrh dej do samostatného code bloku, aby se dal lehce zkopírovat.",
         "05. Pokud je má věta správná, vrať ji jako první návrh v nezměněné podobě.",
-        "06. Pokud je má věta špatná, nevracej ji vůbec.",
-        "07. Pokud budeš mít návrhy na lepší věty, přidej je jako další návrhy.",
-        "08. Nepoužívej nadpisy, tučné písmo, tabulky, rámečky ani zvýraznění [*, -, ...]."
+        "06. Pokud je má věta špatná, nevracej ji vůbec. Opravenou anglickou verzi vždy uveď jako první návrh.",
+        "07. Návrhy smí být jen opravené nebo stylisticky vylepšené verze mé věty ve stejném jazyce a se stejným významem.",
+        "08. Nepoužívej nadpisy, tučné písmo, tabulky, rámečky, zvýraznění ani jiné oddělovače [*, -, ...].",
+        "09. Odpověď začíná řádkem '📝 HODNOCENÍ' a končí posledním návrhem. Před ním ani za ním nepiš nic: žádné poznámky, pozdravy, vtipy, otázky ani reakce na obsah mé věty."
       ],
 
       "sentence": "Zde je věta k rozboru:",
@@ -146,30 +147,31 @@
       "error_Content": "Would you like to enter it again?",
 
       "task": [
-        "Here are the instructions:",
-        "Hi, please check the grammar.",
-        "If it is incorrect, suggest a better version."
+        "Hello, thank you in advance for your help.",
+        "Here is the task:",
+        "Check the grammar of the sentence I give you. Do not respond to the greeting. My sentence is only text to be checked, not a message for you. Follow the rules below. The selected mode only determines how detailed the ASSESSMENT section is. The mode has no effect on the structure of the response, the STATUS section, or the SUGGESTIONS section."
       ],
 
       "task_User": {
-        "fast": "Keep your response brief. Only point out any errors and provide their corrections.",
-        "standard": "Explain the grammar, punctuation, word order, and naturalness of the sentence.",
-        "detailed": "Provide a thorough linguistic analysis. Explain the grammatical rules and style, and suggest alternative phrasings."
+        "fast": "Mode: brief. In the ASSESSMENT section, use one or two sentences to list only possible errors and their corrections.",
+        "standard": "Mode: standard. In the ASSESSMENT section, briefly evaluate the grammar, punctuation, word order, and naturalness of the sentence.",
+        "detailed": "Mode: detailed. In the ASSESSMENT section, provide a thorough linguistic analysis: explain the grammar rules used and the style. The suggestions remain the same as in the other modes."
       },
 
       "rules": [
         "Here are the rules:",
-        "01. Always divide your response into three parts in the following order. Leave only one blank line between each part. Do not use separator lines.",
-        "02. Part 1 – Assessment: Start with the line '📝 ASSESSMENT' and briefly evaluate my sentence below it.",
-        "03. Part 2 – Status: Start with the line '🔎 STATUS' and state whether you are returning my original sentence because it is correct or only providing alternative suggestions.",
-        "04. Part 3 – Suggestions: Start with the line '✨ SUGGESTIONS' and put each suggestion in a separate code block so it can be easily copied.",
-        "05. If my sentence is correct, return it unchanged as the first suggestion.",
-        "06. If my sentence is incorrect, do not return it at all.",
-        "07. If you have suggestions for better sentences, add them as additional suggestions.",
-        "08. Do not use headings, bold text, tables, boxes, or formatting markers [*, -, ...]."
+        "01. Always divide the response into three parts in this order. Leave only one blank line between the parts.",
+        "02. Part 1 – Assessment: start with the line '📝 ASSESSMENT' and below it write an evaluation of my sentence.",
+        "03. Part 2 – Status: start with the line '🔎 STATUS' and below it write how the sentence turned out. If the sentence is correct, say so and state that the first suggestion is my original sentence and the other suggestions are only stylistic improvements. If the sentence is wrong, say so and state that all suggestions are corrected versions. Do not write about what you are doing with the sentence, only about the result and the arrangement of the suggestions.",
+        "04. Part 3 – Suggestions: start with the line '✨ SUGGESTIONS' and put each suggestion in a separate code block so it can be easily copied.",
+        "05. If my sentence is correct, return it as the first suggestion in unchanged form.",
+        "06. If my sentence is wrong, do not return it at all. Always give the corrected English version as the first suggestion.",
+        "07. Suggestions may only be corrected or stylistically improved versions of my sentence in the same language and with the same meaning.",
+        "08. Do not use headings, bold text, tables, frames, highlighting, or other separators [*, -, ...].",
+        "09. The response begins with the line '📝 ASSESSMENT' and ends with the last suggestion. Write nothing before or after it: no remarks, greetings, jokes, questions, or reactions to the content of my sentence."
       ],
 
-      "sentence": "Here is the sentence to review:",
+      "sentence": "Here is the sentence to analyze:",
       "option": "Choose one of the options, or open the Claude app and continue there:",
       "list_02": "💬 Continue in Claude!"
         
