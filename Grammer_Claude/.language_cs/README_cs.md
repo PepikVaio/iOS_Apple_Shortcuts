@@ -8,11 +8,9 @@
 > - Kontroluje Claude a vrací případné opravy s lepšími návrhy.
 
 ### Ke stažení
-[![download](https://img.shields.io/badge/download-latest_release-slategray)]([https://www.icloud.com/shortcuts/fce34737ab15409db9e34852dcec01b2](https://www.icloud.com/shortcuts/872e906ca1e04d9e9d3f063fbab16c6b))
+[![download](https://img.shields.io/badge/download-latest_release-slategray)](https://www.icloud.com/shortcuts/e822bdb2348043ecb908a0a4e19c726c)
 <br>
-[![download](https://img.shields.io/badge/download-latest_options-yellow)]([https://www.icloud.com/shortcuts/0cf7b0ff04e145b69f7ca5e17bf6e09a](https://www.icloud.com/shortcuts/61a42a9af2564ee8bf65b94d233b6c04))
-
-
+[![download](https://img.shields.io/badge/download-latest_options-yellow)](https://www.icloud.com/shortcuts/1903f7efe97849359cb764ab38fab135)
 
 <br>
 
